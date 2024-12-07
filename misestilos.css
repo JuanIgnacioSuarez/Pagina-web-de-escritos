@@ -1,0 +1,50 @@
+
+
+header{
+	margin: 20px;
+	border: solid #999999;
+	text-align: center;
+	background: cyan;
+}
+
+
+nav{
+	border: solid;
+	background: white;
+}
+
+li {
+  text-align: center;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+  text-align: center;
+}
+
+section{
+	margin: 10px;
+	padding: 10px;
+	background: skyblue;
+	text-align: center;
+	align-content: center;
+	justify-content: center;
+}
+
+footer{
+	border: solid;
+	text-align: center;
+	color:red;
+}
+
+
+.input{
+
+
+}
+
+aside{
+	float: left;
+}
